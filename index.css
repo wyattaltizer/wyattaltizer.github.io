@@ -80,7 +80,7 @@ p {
 	height: 100%;
 	background-image: url("https://www.osu.edu/assets/web/logo-web/TheOhioStateUniversity-Stacked.jpg");
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: top center;
 	opacity: 0.9;
 	margin: 0 auto;
 	background-attachment: fixed;
