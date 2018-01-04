@@ -104,8 +104,8 @@ p {
 	border: 3px hsla(0, 100%, 40%, 1) ridge;
 	border-radius: 5px;
 	margin: 0 auto;
-	width: 40%;
-	height: 10%;
+	width: 30%;
+	height: 5%;
 	padding: 0 auto;
 	text-align: center;
 	background: linear-gradient(174.5deg, hsla(0, 0%, 60%, 0.9) 20%, hsla(0, 100%, 40%, 1) 90%);
